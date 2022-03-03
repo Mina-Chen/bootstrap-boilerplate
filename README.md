@@ -1,6 +1,6 @@
 # bootstrap-boilerplate
 
-Thisproject was started on March 1, 2022.
+This project was started on March 1, 2022.
 
 This is the boilerplate template for using bootstrap
 
